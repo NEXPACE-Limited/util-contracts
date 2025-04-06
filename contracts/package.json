@@ -13,6 +13,6 @@
   "license": "ISC",
   "peerDependencies": {
     "@openzeppelin/contracts": ">=4.8.0 <=4.8.3",
-    "@projecta/min-proxy": "git+ssh://git@github.com:NEXPACE-ADMIN/min-proxy.git"
+    "@projecta/min-proxy": "git+ssh://git@github.com:NEXPACE-ADMIN/min-proxy.git#v1.0.0"
   }
 }
