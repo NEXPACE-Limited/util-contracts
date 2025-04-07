@@ -19,7 +19,7 @@
     "@local-dependencies/contracts": "file:contracts",
     "@nomicfoundation/hardhat-network-helpers": "^1.0.8",
     "@nomicfoundation/hardhat-toolbox": "^2.0.2",
-    "@projecta/min-proxy": "git+ssh://git@github.com:NEXPACE-ADMIN/min-proxy.git#v1.0.0",
+    "@projecta/min-proxy": "git+ssh://git@github.com:NEXPACE-Limited/min-proxy.git#v1.0.0",
     "@types/chai": "^4.3.5",
     "@types/mocha": "^9.1.1",
     "@typescript-eslint/eslint-plugin": "^5.59.5",
